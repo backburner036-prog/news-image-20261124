@@ -20,3 +20,6 @@ node main.ts        # verifies entry.png and copies it to $MAKEFUN_OUTPUT_DIR
 - Competition: `news-image-20261124` — "Sum up 24 November's world news in one image"
 - Prize: $100 (top 50 paid); deadline 26 Nov 2026 07:00 WIB; round 1 cutoff 24 Nov 19:00 WIB
 - Research + date check (35 rows): `news-image-20261124-research.md`
+
+## Verification
+- Rendered twice, byte-identical (sha256 dcaf22fc…b0aa); GATE-D 300px passed.
